@@ -1,0 +1,26 @@
+@import "./overrides";
+.netflix_logo {
+  width: 100px;
+}
+.kids_icon {
+  width: 40px;
+}
+.avatar {
+  width: 40px;
+}
+footer {
+  font-size: 10px;
+}
+.leftButton {
+  border: solid gray 1px;
+  &:hover {
+    background-color: white;
+    color: #212529;
+  }
+}
+.show-titles {
+  font-size: 12px;
+}
+.label {
+  font-size: 12px;
+}
