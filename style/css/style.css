@@ -11858,10 +11858,6 @@ footer {
 .leftButton {
   border: solid gray 1px;
 }
-.leftButton:hover {
-  background-color: white;
-  color: #212529;
-}
 
 .show-titles {
   font-size: 12px;
@@ -11869,6 +11865,14 @@ footer {
 
 .label {
   font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.buttonService {
+  font-size: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
